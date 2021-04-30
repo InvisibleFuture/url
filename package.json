@@ -1,0 +1,19 @@
+{
+  "name": "reurl",
+  "version": "1.0.0",
+  "description": "nodejs 实现高效短网址服务, 使用内嵌数据库 nedb, 免配置并附带统计",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InvisibleFuture/url.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InvisibleFuture/url/issues"
+  },
+  "homepage": "https://github.com/InvisibleFuture/url#readme"
+}
